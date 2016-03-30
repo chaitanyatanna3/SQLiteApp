@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLiteApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="view_users">View users</string>
+    <string name="get_id">Get Id</string>
+    <string name="get_address">Get Address</string>
+    <string name="update_name">Update Name</string>
+    <string name="update_address">Update Address</string>
+    <string name="delete">Delete</string>
+    <string name="submit">Submit</string>
+    <string name="address">Address</string>
+</resources>
